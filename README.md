@@ -8,32 +8,18 @@ Based in Berlin.
 You can find me in LinkedIn: https://www.linkedin.com/in/pawelsuchocki78/
 
 ## Skills
-#### Python
 
-#### Django
-
-#### Object-Oriented Programming (OOP)
-
-#### Amazon Web Services (AWS)
-
-#### Google Cloud Platform (GCP)
-
-#### CI/CD (Continuous Integration/Continuous Deployment)
-
-#### REST API (Representational State Transfer Application Programming Interface)
-
-#### RDBMS (Relational Database Management System)
-
-### SQL & PostgreSQL
-
-#### Git
-
-#### Agile Development
-
-#### Linux
-
-#### HTML/CSS
-
-#### Javascript
-
-#### Docker
+- #### Python
+- #### Django
+- #### Object-Oriented Programming (OOP)
+- #### AWS | EC2 | RDS | S3 | Lambda|
+- #### Google Cloud Platform (GCP)
+- #### CI/CD (Continuous Integration/Continuous Deployment)
+- #### REST API | Postman |
+- #### RDBMS (Relational Database Management System)
+- #### SQL & PostgreSQL
+- #### Git
+- #### Linux
+- #### HTML/CSS
+- #### Javascript
+- #### Docker
