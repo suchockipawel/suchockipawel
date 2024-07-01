@@ -1,4 +1,4 @@
-Hi there 👋
+### Hi there 👋
 I am Pawel, as a Python backend developer on the verge of graduating from a 1-year intensive training program in backend programming, I am actively seeking a position that allows me to combine my extensive 20+ years of experience in pharmaceutical market analysis and strategic planning with my newly acquired coding skills. My training covered Python Basics, Databases, Django Framework, APIs, and Cloud Services, equipping me with the expertise to excel in backend development.
 
 I speak native Polish, English in a professional level, and A2 German on the way!
