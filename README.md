@@ -7,7 +7,7 @@ Based in Berlin.
 
 You can find me in LinkedIn: https://www.linkedin.com/in/pawelsuchocki78/
 
-Final project: https://github.com/jonathanerasmus0/nottodo_final
+Final DCI project: https://github.com/jonathanerasmus0/nottodo_final
 
 ## Skills
 
