@@ -6,6 +6,7 @@ I speak native Polish, English in a professional level, and A2 German on the way
 Based in Berlin.
 
 You can find me in LinkedIn: https://www.linkedin.com/in/pawelsuchocki78/
+![QR Code](https://github.com/suchockipawel/suchockipawel/blob/main/qrcode.jpg?raw=true)
 
 Final DCI project: https://github.com/jonathanerasmus0/nottodo_final
 
