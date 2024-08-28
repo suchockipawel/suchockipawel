@@ -1,8 +1,8 @@
-### 👋 Hi, I'm Pawel—a Python backend developer based in Berlin. I’m on the brink of completing a 1-year intensive training program in backend programming, during which I honed my skills in Python, Databases, Django, APIs, and Cloud Services. I’m eager to apply this expertise to real-world projects and further develop my career in backend development.
+## 👋 Hi, I'm Pawel—a Python backend developer based in Berlin. I’m on the brink of completing a 1-year intensive training program in backend programming, during which I honed my skills in Python, Databases, Django, APIs, and Cloud Services. I’m eager to apply this expertise to real-world projects and further develop my career in backend development.
 
-### 🌍 I’m fluent in Polish, speak English at a professional level, and am actively improving my German (currently at A2 level).
+## 🌍 I’m fluent in Polish, speak English at a professional level, and am actively improving my German (currently at A2 level).
 
-### I’m excited to connect with like-minded professionals and explore opportunities in the tech industry!
+## I’m excited to connect with like-minded professionals and explore opportunities in the tech industry!
 
 You can find me in LinkedIn: https://www.linkedin.com/in/pawelsuchocki78/
 
