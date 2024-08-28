@@ -8,7 +8,7 @@ You can find me in LinkedIn: https://www.linkedin.com/in/pawelsuchocki78/
 
 <img src="https://github.com/suchockipawel/suchockipawel/blob/main/qrcode.jpg?raw=true" alt="QR Code" width="100" height="100">
 
-Final DCI project: https://github.com/jonathanerasmus0/FINAL_NOT_TO_DO
+Final DCI project: https://github.com/suchockipawel/FINAL_NOT_TO_DO
 
 ## Skills
 
